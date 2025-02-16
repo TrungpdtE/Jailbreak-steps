@@ -1,6 +1,9 @@
 # Jailbreak-steps 15. -> 16.7.10
+0. Download Plena1n
+# for macos, Linux
+sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"
 
-1. palera1n --force-revert -f
+2. palera1n --force-revert -f
 
 FakeFS:
 2. palera1n -c -f
