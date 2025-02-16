@@ -1,5 +1,5 @@
-# Jailbreak-steps 15. -> 16.7.10
-0. Download Plena1n
+# I. Jailbreak-steps 15. -> 16.7.10 (Palera1n)
+0. Download Palera1n
 # for macos, Linux
 sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"
 
@@ -28,3 +28,6 @@ Here are the solutions:
 
 # c. Got stuck at the fakeFS screen
 ...
+
+# I. Jailbreak-steps 15. -> 16.6 (3uTools)
+0.
