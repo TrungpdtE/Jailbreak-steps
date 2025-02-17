@@ -17,6 +17,7 @@ Here are the solutions:
 
 # a. <Error>: Timed out waiting for download mode (error code: -status_exploit_timeout_error)
 → Unplug your Lightning cable, then plug it back in quickly.
+![Uploading Ảnh màn hình 2025-02-17 lúc 18.14.55.png…]()
 
 
 # b. <Error>: Unable to perform softboot: e0004051 (error code: -status_enter_softboot)
